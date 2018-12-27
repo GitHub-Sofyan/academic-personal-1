@@ -42,4 +42,16 @@ date_format = "January 2006"
   date_end = "2015-12-31"
   description = """Provided Strength and Conditioning services to National Athletes."""
 
+[[experience]]
+  title = "Principle Consultant"
+  company = "State of Fitness SG"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2013-12-01"
+  date_end = ""
+  description = """
+  * Provides an integrated sports science and performance analysis consultancy and support. 
+  * Head, Strength and Conditioning Coach
+  """
+
 +++

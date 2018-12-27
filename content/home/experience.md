@@ -30,7 +30,7 @@ date_format = "January 2006"
   * Tutor for Statistical Research Methods
   * Tutor for a topic in a Masters-level unit: "Data Visualisation and Introduction to R"
   * Practicum supervisor for Exercise Prescription and Resistance Training
-  * Practicum supervisor for Research Assistants (Undergraduate)
+  * Practicum supervisor for Research Assistants (Undergraduate) 
   """
 
 [[experience]]

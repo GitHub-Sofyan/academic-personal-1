@@ -50,7 +50,7 @@ weight = 7
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "SQL and Sports Database"
+  description = "SQL and Athlete Management System (Database)"
 
 [[feature]]
   icon = "chart-line"

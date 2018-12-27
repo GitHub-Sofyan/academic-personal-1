@@ -39,7 +39,7 @@ date_format = "January 2006"
   company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
   location = "Singapore"
   date_start = "2013-01-01"
-  date_end = "2015-04-31"
+  date_end = "2015-12-31"
   description = """Provided Strength and Conditioning services to National Athletes."""
 
 [[experience]]
@@ -53,5 +53,20 @@ date_format = "January 2006"
   * Provides an integrated sports science and performance analysis consultancy and support. 
   * Head, Strength and Conditioning Coach
   """
+
+[[experience]]
+  title = "Associate Lecturer"
+  company = "Republic Polytechnic"
+  company_url = "https://www.rp.edu.sg/"
+  location = "Singapore"
+  date_start = "2014-03-01"
+  date_end = "2015-03-31"
+  description = """
+  Principal duties were to conduct approved Learning Units (“LU”) for all CET courses and such other courses in relation thereto as RP may determine from time to time.
+  Taught in LUs for:-
+  * Specialist Diploma in Sports and Exercise Science
+  * Specialist Diploma in Sports Coaching
+  * Basic Sports Science Course
+  """ 
 
 +++

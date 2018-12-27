@@ -40,6 +40,7 @@ date_format = "January 2006"
   location = "Singapore"
   date_start = "2013-01-21"
   date_end = "2015-04-31"
-  description = """ Provided Strength and Conditioning services to National Athletes and served as Sports Science Coordinator and Strength and Conditioning Coach for Singapore Sailing and Silat."""
+  description = """ Provided Strength and Conditioning services to National Athletes and served as Sports Science Coordinator and Strength and Conditioning Coach for Singapore Sailing and Silat.
+  """
 
 +++

@@ -35,12 +35,113 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Strength and Conditioning Coach"
+  company = "Singapore Sports Institute"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2013-01-21"
+  date_end = "2015-04-31"
+  description = """
+  * Provided Strength and Conditioning services to National Athletes 
+  * Sports Science Coordinator and Strength and Conditioning Coach for Singapore Sailing and Silat.
+  """
+
+[[experience]]
+  title = "Principle Consultant"
+  company = "State of Fitness SG"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2013-12-01"
+  date_end = ""
+  description = """
+  * Provides an integrated sports science and performance analysis consultancy and support. 
+  * Head, Strength and Conditioning Coach
+  """
+
+[[experience]]
+  title = "Associate Lecturer"
+  company = "Republic Polytechnic"
+  company_url = "https://www.rp.edu.sg/"
+  location = "Singapore"
+  date_start = "2014-03-01"
+  date_end = "2015-03-31"
+  description = """
+  Principal duties were to conduct approved Learning Units (“LU”) for all CET courses and such other courses in relation thereto as RP may determine from time to time.
+  Taught in LUs for:-
+  * Specialist Diploma in Sports and Exercise Science
+  * Specialist Diploma in Sports Coaching
+  * Basic Sports Science Course
+  """ 
+
+[[experience]]
+  title = "Strength and Conditioning Coach"
+  company = "Singapore Sports School"
+  company_url = "https://www.sportsschool.edu.sg/"
+  location = "Singapore"
+  date_start = "2007-01-01"
+  date_end = "2013-01-20"
+  description = """
+  * Provided Strength and Conditioning Services to student-athletes at the school 
+  * Created Athletic Training Competency, a maturational and competency based strength and conditioning program for the student-athletes.
+  """
+
+[[experience]]
+  title = "Sports Biomechanist"
+  company = "Singapore Sports School"
+  company_url = "https://www.sportsschool.edu.sg/"
+  location = "Singapore"
+  date_start = "2010-03-01"
+  date_end = "2011-03-31"
+  description = """
+  * Introduced notational analysis and provided training for sports coaches to utilise it as part of their coaching. 
+  * Provided qualitative and quantitative biomechanical analysis to sports coaches.
+  """
+
+[[experience]]
+  title = "Sports Trainer - Rehabilitation"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2005-03-01"
+  date_end = "2007-01-20"
+  description = """
+  * Responsible for providing pitch-side first aid and attend to injuries during training and competitions. Refer to and follow up with physiotherapist on athletes injuries. 
+  * Responsible for all medical matters when attached to sports teams overseas.
+  """
+
+[[experience]]
+  title = "Assistant Strength and Conditioning Coach"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2006-05-01"
+  date_end = "2006-12-31"
+  description = """
+  * Assists Sports Physiologist and Principal Laboratory officer with both field and laboratory based testing. 
+  * Perform routine basic laboratory duties and other maintenances.
+  """
+
+[[experience]]
+  title = "Laboratory Officer"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2006-01-01"
+  date_end = "2006-12-31"
+  description = """
+  * Assists Sports Physiologist and Principal Laboratory officer with both field and laboratory based testing. 
+  * Perform routine basic laboratory duties and other maintenances.
+  """
+
+[[experience]]
+  title = "Sports Masseur"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2004-12-01"
+  date_end = "2006-12-31"
+  description = """
+  * Provided sports massage, pre and post activity and other massage as directed by the physiotherapist. 
+  """
 
 +++

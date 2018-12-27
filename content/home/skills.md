@@ -58,10 +58,4 @@ weight = 7
   name = "EMT-B"
   description = "Emergency Medical Technician (Basic)"
 
-[[feature]]
-  icon = "street-view"
-  icon_pack = "fas"
-  name = "Hoplology"
-  description = "Hoplology"
-
 +++

@@ -23,9 +23,9 @@ weight = 8
 
 
 [[feature]]
-  icon = "cscs.png"
+  icon = {{< figure library="1" src="image.jpg" title="A caption" >}}
   name = "Certified Strength and Conditioning Specialist"
-  description = "100%"
+  description = "National Strength and Conditioning Association"
   
 [[feature]]
   icon = "dumbbell"

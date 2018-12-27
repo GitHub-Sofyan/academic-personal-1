@@ -39,7 +39,7 @@ date_format = "January 2006"
   company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute/"
   location = "Singapore"
   date_start = "2013-01-01"
-  date_end = "2015-04-31"
+  date_end = "2014-12-31"
   description = """Provided Strength and Conditioning services to National Athletes."""
 
 [[experience]]
@@ -91,6 +91,52 @@ date_format = "January 2006"
   description = """
   * Introduced notational analysis and provided training for sports coaches to utilise it as part of their coaching. 
   * Provided qualitative and quantitative biomechanical analysis to sports coaches.
+  """
+[[experience]]
+  title = "Sports Trainer - Rehabilitation"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2005-03-01"
+  date_end = "2007-01-20"
+  description = """
+  * Responsible for providing pitch-side first aid and attend to injuries during training and competitions. Refer to and follow up with physiotherapist on athletes injuries. 
+  * Responsible for all medical matters when attached to sports teams overseas.
+  """
+
+[[experience]]
+  title = "Assistant Strength and Conditioning Coach"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2006-05-01"
+  date_end = "2006-12-31"
+  description = """
+  * Assists Sports Physiologist and Principal Laboratory officer with both field and laboratory based testing. 
+  * Perform routine basic laboratory duties and other maintenances.
+  """
+
+[[experience]]
+  title = "Laboratory Officer"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2006-01-01"
+  date_end = "2006-12-31"
+  description = """
+  * Assists Sports Physiologist and Principal Laboratory officer with both field and laboratory based testing. 
+  * Perform routine basic laboratory duties and other maintenances.
+  """
+
+[[experience]]
+  title = "Sports Masseur"
+  company = "Singapore Sports Council"
+  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
+  location = "Singapore"
+  date_start = "2004-12-01"
+  date_end = "2006-12-31"
+  description = """
+  * Provided sports massage, pre and post activity and other massage as directed by the physiotherapist. 
   """
 
 +++

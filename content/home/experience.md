@@ -34,18 +34,6 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Strength and Conditioning Coach"
-  company = "Singapore Sports Institute"
-  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
-  location = "Singapore"
-  date_start = "2013-01-21"
-  date_end = "2015-04-31"
-  description = """
-  * Provided Strength and Conditioning services to National Athletes 
-  * Sports Science Coordinator and Strength and Conditioning Coach for Singapore Sailing and Silat.
-  """
-
-[[experience]]
   title = "Professor"
   company = "University X"
   company_url = ""

@@ -69,4 +69,28 @@ date_format = "January 2006"
   * Basic Sports Science Course
   """ 
 
+[[experience]]
+  title = "Strength and Conditioning Coach"
+  company = "Singapore Sports School"
+  company_url = "https://www.sportsschool.edu.sg/"
+  location = "Singapore"
+  date_start = "2007-01-01"
+  date_end = "2013-01-20"
+  description = """
+  * Provided Strength and Conditioning Services to student-athletes at the school 
+  * Created Athletic Training Competency, a maturational and competency based strength and conditioning program for the student-athletes.
+  """
+
+[[experience]]
+  title = "Sports Biomechanist"
+  company = "Singapore Sports School"
+  company_url = "https://www.sportsschool.edu.sg/"
+  location = "Singapore"
+  date_start = "2010-03-01"
+  date_end = "2011-03-31"
+  description = """
+  * Introduced notational analysis and provided training for sports coaches to utilise it as part of their coaching. 
+  * Provided qualitative and quantitative biomechanical analysis to sports coaches.
+  """
+
 +++

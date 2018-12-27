@@ -23,51 +23,14 @@ weight = 8
 
 
 [[feature]]
-  icon = "square-root-alt"
-  icon_pack = "fab"
-  name = "Biomechanics"
+  icon = "cscs.png"
+  name = "Certified Strength and Conditioning Specialist"
   description = "100%"
-
-[[feature]]
-  icon = "skiing-nordic"
-  icon_pack = "fab"
-  name = "3D Motion Analysis"
-  description = "Vicon Nexus and XSens"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Automation, Data Processing and Analysis and Creating Awesome Balls of Fire"
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Data Analysis and Visualisation"
-  
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "SQL and Athlete Management System (Database)"
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Performance Analysis"
-  description = "Notational and Game Analysis"  
   
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
   name = "Strength and Conditioning"
   description = "Physical Development"
-
-[[feature]]
-  icon = "heartbeat"
-  icon_pack = "fas"
-  name = "EMT-B"
-  description = "Emergency Medical Technician (Basic)"
 
 +++

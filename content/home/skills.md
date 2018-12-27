@@ -23,13 +23,13 @@ weight = 7
 
 
 [[feature]]
-  icon = "balance-scale-right"
+  icon = "square-root-alt"
   icon_pack = "fab"
   name = "Biomechanics"
   description = "100%"
 
 [[feature]]
-  icon = "Python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "Automation, Data Processing and Analysis and Creating Awesome Balls of Fire"
@@ -47,7 +47,7 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "dumbell"
+  icon = "dumbbell"
   icon_pack = "fas"
   name = "Strength and Conditioning"
   description = "Physical Development"
@@ -59,7 +59,7 @@ weight = 7
   description = "Emergency Medical Technician (Basic)"
 
 [[feature]]
-  icon = "sword"
+  icon = "street-view"
   icon_pack = "fas"
   name = "Hoplology"
   description = "Hoplology"

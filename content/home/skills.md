@@ -29,6 +29,12 @@ weight = 7
   description = "100%"
 
 [[feature]]
+  icon = "skiing-nordic"
+  icon_pack = "fab"
+  name = "3D Motion Analysis"
+  description = "Vicon Nexus and XSens"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -41,10 +47,16 @@ weight = 7
   description = "Data Analysis and Visualisation"
   
 [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "SQL and Sports Database"
+
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Performance Analysis"
+  description = "Notational and Game Analysis"  
   
 [[feature]]
   icon = "dumbbell"

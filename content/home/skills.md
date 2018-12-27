@@ -21,11 +21,24 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+
+[[feature]]
+  icon = "balance-scale-right"
+  icon_pack = "fab"
+  name = "Biomechanics"
+  description = "100%"
+
+[[feature]]
+  icon = "Python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Automation, Data Processing and Analysis and Creating Awesome Balls of Fire"
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Data Analysis and Visualisation"
   
 [[feature]]
   icon = "chart-line"
@@ -34,9 +47,21 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "dumbell"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Strength and Conditioning"
+  description = "Physical Development"
+
+[[feature]]
+  icon = "heartbeat"
+  icon_pack = "fas"
+  name = "EMT-B"
+  description = "Emergency Medical Technician (Basic)"
+
+[[feature]]
+  icon = "sword"
+  icon_pack = "fas"
+  name = "Hoplology"
+  description = "Hoplology"
 
 +++

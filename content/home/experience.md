@@ -38,8 +38,8 @@ date_format = "January 2006"
   company = "Singapore Sports Institute"
   company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
   location = "Singapore"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2013-01-01"
+  date_end = "2015-12-31"
   description = """Provided Strength and Conditioning services to National Athletes."""
 
 +++

@@ -60,7 +60,7 @@ weight = 5
 
 I am an athlete developer with a belief that high performance is achieved through an integrated multi-disciplinary approach, based on actual data and not just pure empirical "say-so". I passionately believes in a long-term and data-driven approach to development for both athlete and coach.
 
-As an S&C Coach, I have had the honor of coaching athletes throughout the full training spectrum from developmental youths to elite adults.
+As an Strength and Conditioning (S&C) Coach, I have had the honor of coaching athletes throughout the full training spectrum from developmental youths to elite adults.
 
 As a Sports Science practitioner, I have contributed through several sports science disciplines and am a firm believer of an integrated/interdisciplinary approach.
 

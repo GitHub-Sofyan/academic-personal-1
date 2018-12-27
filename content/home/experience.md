@@ -36,10 +36,10 @@ date_format = "January 2006"
 [[experience]]
   title = "Strength and Conditioning Coach"
   company = "Singapore Sports Institute"
-  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
-  location = "Singapore"
+  company_url = ""
+  location = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
   date_start = "2013-01-21"
   date_end = "2015-04-31"
-  description = """ Provided Strength and Conditioning services to National Athletes."""
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

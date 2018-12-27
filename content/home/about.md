@@ -55,6 +55,11 @@ weight = 5
   institution = "Singapore University of Social Science"
   year = 2022
 
+[[education.courses]]
+  course = "Data Analysis Nanodegree"
+  institution = "Udacity"
+  year = 2018
+
 +++
 
 # Biography
@@ -69,6 +74,7 @@ As a Data Analyst, I am looking to develop further into machine learning and its
 
 Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning.
 
+An Eternal Student:
 "Always Learning, Always Growing"
 
 I am honored to be recognised as a SkillsFuture Fellow for 2018.

@@ -14,7 +14,13 @@ subtitle = "Teaching at Educational Institutes"
 weight = 60
 
 +++
+Postgraduate level
+* Tutor for a topic (unit) in a Masters-level unit: "Data Visualisation and Introduction to R"
 
-* SPS1116 Biomechanics and Functional Anatomy, 
-* SPS2116 Applied Biomechanics, 
+Undergraduate level 
+* SPS1116 Biomechanics and Functional Anatomy
+* SPS2116 Applied Biomechanics
 * MAT2107 Statistical Research Methods
+- Practicum supervisor 
+* Exercise Prescription and Resistance Training
+* Research Assistants (Undergraduate) 

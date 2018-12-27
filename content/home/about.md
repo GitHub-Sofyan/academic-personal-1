@@ -15,7 +15,8 @@ weight = 5
     "Performance Analysis",
     "Data Analysis",
     "Data Management in Sports",
-    "Youth and Coaching Development"
+    "Youth and Coaching Development",
+    "Hoplology"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -38,8 +38,11 @@ date_format = "January 2006"
   company = "Singapore Sports Institute"
   company_url = ""
   location = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute"
-  date_start = "2013-01-21"
-  date_end = "2015-04-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2013-21-01"
+  date_end = "2015-31-04"
+  description = """  
+  * Provided Strength and Conditioning services to National Athletes 
+  * Sports Science Coordinator and Strength and Conditioning Coach for Singapore Sailing and Silat.
+  """
 
 +++

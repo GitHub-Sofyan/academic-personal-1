@@ -23,14 +23,21 @@ weight = 8
 
 
 [[feature]]
-  icon = {{< figure library="1" src="image.jpg" title="A caption" >}}
-  name = "Certified Strength and Conditioning Specialist"
+  icon = "dumbbell"
+  icon_pack = "fas"
+  name = "Certified Strength and Conditioning Specialist (CSCS)"
   description = "National Strength and Conditioning Association"
   
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
-  name = "Strength and Conditioning"
-  description = "Physical Development"
+  name = "Registered Strength and Conditioning Coach _with Distinction_ (RSCC*D)"
+  description = "National Strength and Conditioning Association"
+
+[[feature]]
+  icon = "dumbbell"
+  icon_pack = "fas"
+  name = "Professsional Structure Coach - Professional"
+  description = "National Strength and Conditioning Association"
 
 +++

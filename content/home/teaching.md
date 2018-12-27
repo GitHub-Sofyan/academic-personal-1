@@ -8,10 +8,7 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = "
-* SPS1116 Biomechanics and Functional Anatomy
-* SPS2116 Applied Biomechanics
-* MAT2107 Statistical Research Methods"
+subtitle = "* SPS1116 Biomechanics and Functional Anatomy, * SPS2116 Applied Biomechanics, * MAT2107 Statistical Research Methods"
 
 # Order that this section will appear in.
 weight = 60

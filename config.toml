@@ -321,13 +321,13 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Projects (Sports Science)"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Projects (Data Analysis)"
+  url = "#projectsDA"
   weight = 5
 
 [[menu.main]]

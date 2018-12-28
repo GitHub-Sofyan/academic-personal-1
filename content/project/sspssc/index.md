@@ -6,7 +6,7 @@ title = "Stretch Shorten Cycle Across the different Maturational Stages (Pre, Pu
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "- Principal investigator into the research into trying to understand the Stretch Shorten Cycle ability of youths across the different maturational stages. The research was important as it allowed us to investigate long-term athletic development theories rather than just accepting empirical advise or "say-so" on the topic."
+summary = "Principal investigator for the research in trying to understand the Stretch Shorten Cycle ability of youths across the different maturational stages. The research was important as it allowed us to investigate long-term athletic development theories rather than just accepting empirical advise or "say-so" on the topic."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

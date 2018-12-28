@@ -22,15 +22,19 @@ Postgraduate level
 Undergraduate level
 
 Tutor
+
 * SPS1116 Biomechanics and Functional Anatomy
 * SPS2116 Applied Biomechanics
 * MAT2107 Statistical Research Methods
 
 Practicum supervisor 
+
 * Exercise Prescription and Resistance Training
 * Research Assistants (Undergraduate) 
 
+
 Diploma level 
+
 * Specialist Diploma in Sports and Exercise Science
 * Specialist Diploma in Sports Coaching
 * Basic Sports Science Course

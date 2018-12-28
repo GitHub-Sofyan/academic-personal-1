@@ -22,7 +22,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Doctor of Philosophy in Biomechanics"
-  institution = {name = "Edith Cowan University", url="http://www.ecu.edu.au/"}
+  institution = "Edith Cowan University", url="http://www.ecu.edu.au/"
   year = 2019
 
 [[education.courses]]

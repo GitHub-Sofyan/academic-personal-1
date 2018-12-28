@@ -66,8 +66,8 @@ enableGitInfo = false
   email = "s.sahrom@ecu.edu.au"
   address = "Building 21 Room 501, Edith Cowan University, Joondalup, 6027, Western Australia"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
+  Monday to Thursday 05:00 to 11:00\\
+  Sunday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
   phone = "888 888 88 88"
@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "GarangSof"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -132,7 +132,7 @@ enableGitInfo = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04 PM"
 
   # Show estimated reading time for posts?
   reading_time = true

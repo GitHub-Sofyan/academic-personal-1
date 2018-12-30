@@ -29,10 +29,10 @@ weight = 7
   description = "Biomechanics"
 
 [[feature]]
-  icon = "skiing-nordic"
+  icon = "skating"
   icon_pack = "fas"
   name = "3D Motion Analysis"
-  description = "I have been using VICON Nexus for 3D motion analysis alot of over the years, especially currently for my PhD. Currently however I have learned and helped to conduce studies using the XSens system."
+  description = "I have been using VICON Nexus for 3D motion analysis alot of over the years, especially currently for my PhD. Currently however I have learned and helped to conduct studies using the XSens system."
 
 [[feature]]
   icon = "python"

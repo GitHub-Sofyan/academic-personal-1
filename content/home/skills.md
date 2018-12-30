@@ -38,13 +38,13 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Automation, Data Processing and Analysis and Creating Awesome Balls of Fire"
+  description = "Automation, Data Processing and Analysis (e.g. [here]({{< ref "projectsDA/Dogtweets/index.md" >}})) and Creating Awesome Balls of Fire"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Data Analysis and Visualisation"
+  description = "I mainly use R for Data Analysis and Visualisation. An example can be seen in the [Projects - Data Analysis]({{< ref "projectsDA/Redwine/index.md" >}})"
   
 [[feature]]
   icon = "database"
@@ -56,7 +56,7 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Notational Analysis"
-  description = "[Notational and Game Analysis](www.google.com)"  
+  description = "As a Rugby Coach, I am always interested in notational analysis, which is the study of strategy and tactics in team sports. I have recently published two such papers, one on [hockey]({{< ref "publications/hockey/index.md" >}}) and one on [water polo]({{< ref "publications/waterpolo-rule/index.md" >}})"  
   
 [[feature]]
   icon = "dumbbell"

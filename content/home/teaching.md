@@ -34,8 +34,8 @@ Practicum supervisor
 
 Diploma level
 
-* [Specialist Diploma in Sports and Exercise Science](https://www.rp.edu.sg/ace/course-summary/Detail/sdses)
-* Specialist Diploma in Sports Coaching
+* [Specialist Diploma in Sports and Exercise Science](https://www.rp.edu.sg/ace/course-summary/Detail/sdses), [Republic Polytechnic](www.rp.edu.sg)
+* Specialist Diploma in Sports Coaching, [Republic Polytechnic](www.rp.edu.sg)
 
 Certificate Courses
 

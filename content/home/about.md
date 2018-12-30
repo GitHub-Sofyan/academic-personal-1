@@ -52,7 +52,7 @@ weight = 5
 
 [[education.courses]]
   course = "Bachelor of General Studies"
-  institution = "[Singapore University of Social Science](http://www.suss.edu.sg/)"
+  institution = "Singapore University of Social Science"
   year = 2022
 
 [[education.courses]]
@@ -78,7 +78,7 @@ An Eternal Student:
 _"Always Learning, Always Growing"_
 
 I am honored to be recognised as a [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18) for 2018.
-SkillsFuture Fellow 2018
 
 * Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
 
+{{< figure src="cscs.png" title="A caption" >}}

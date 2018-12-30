@@ -32,13 +32,13 @@ weight = 7
   icon = "skiing-nordic"
   icon_pack = "fas"
   name = "3D Motion Analysis"
-  description = "Vicon Nexus and XSens"
+  description = "I have been using [VICON Nexus](https://www.vicon.com/) for 3D motion analysis alot of over the years, especially currently for my PhD. Currently however I have learned and helped to conduce studies using the [XSens](www.xsens.com/‎) system."
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Automation, Data Processing and Analysis and Creating Awesome Balls of Fire"
+  description = "Automation, Signal processing (e.g. 3D motion analysis, EMG etc), data wrangling and analysis and Creating Awesome Balls of Fire"
 
 [[feature]]
   icon = "r-project"
@@ -49,14 +49,14 @@ weight = 7
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL"
-  description = "SQL and Athlete Management System (Database)"
+  name = ""SQL and Athlete Management System (Database)"
+  description = "Over the years as a coach, I have accumulated thousands of spreadsheets, data etc. A few years ago, I started trying to organise them, especially when as Sports Science Coordinator, I had to consolidate data from different disciplines (e.g. YPIs, training programs, medical, physiological, nurtitrional plan, videos). This triggered my passion for database management. And as more coaches will tell you, the more information we have about the athelete, the better we can train them."
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Notational Analysis"
-  description = "As a Rugby Coach, I am always interested in notational analysis, which is the study of strategy and tactics in team sports. I have recently published two such papers, one on hockey and one on water polo"  
+  description = "As a rugby coach, I am always interested in notational analysis, which is the study of strategy and tactics in team sports. I have recently published two such papers, one on hockey and one on water polo."  
   
 [[feature]]
   icon = "dumbbell"
@@ -74,6 +74,6 @@ weight = 7
   icon = "heartbeat"
   icon_pack = "fas"
   name = "EMT-B"
-  description = "Emergency Medical Technician (Basic)"
+  description = "Emergency Medical Technician (Basic). I started out my sports science career as a Sports Masseur/Sports Trainer (i.e., first aider/rehabilitation assistant) and spent several years providing first aid, other medical support and rehabilitation to fellow athletes. Earning my Emergency Medical Technician (Basic) was a natural progression to achieve a higher level of skill and competency. And while I have moved into the area of Biomechanics, I make it a point to always maintain my currency and competency in these skills as I sincerly do enjoy doing it."
 
 +++

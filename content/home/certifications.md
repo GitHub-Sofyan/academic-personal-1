@@ -43,7 +43,7 @@ weight = 8
 [[feature]]
   icon = "running"
   icon_pack = "fas"
-  name = "IAAF CECS Level 1 Youth Coach"
+  name = "[IAAF CECS Level 1 Youth Coach](https://www.iaaf.org/development/education/coaches)"
   description = "[International Association of Athletics Federations (IAAF)](https://www.iaaf.org/)"
 
 [[feature]]
@@ -61,13 +61,13 @@ weight = 8
 [[feature]]
   icon = "football-ball"
   icon_pack = "fas"
-  name = "Rugby Coach"
-  description = "National Coaching Accreditation Program"
+  name = "Coach (Rugby)"
+  description = "[National Coaching Accreditation Program (Singapore)](https://www.sportsingapore.gov.sg/~/media/corporate/files/athletes%20and%20coaches/for%20coaches/coach%20development/national%20coaching%20accreditation%20programme/infosheet%20ncap%20theory%20syllabus.pdf)"
 
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
-  name = "Weightlifting (Level 1)"
-  description = "National Coaching Accreditation Program"
+  name = "Coach (Weightlifting)"
+  description = "[National Coaching Accreditation Program (Singapore)](https://www.sportsingapore.gov.sg/~/media/corporate/files/athletes%20and%20coaches/for%20coaches/coach%20development/national%20coaching%20accreditation%20programme/infosheet%20ncap%20theory%20syllabus.pdf)"
 
 +++

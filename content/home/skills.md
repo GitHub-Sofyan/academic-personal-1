@@ -38,7 +38,7 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Automation, Data Processing and Analysis (e.g. [here]({{< ref "projectsDA/Dogtweets/index.md" >}})) and Creating Awesome Balls of Fire"
+  description = "Automation, Data Processing and Analysis and Creating Awesome Balls of Fire"
 
 [[feature]]
   icon = "r-project"

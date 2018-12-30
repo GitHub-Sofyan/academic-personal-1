@@ -32,12 +32,15 @@ Practicum supervisor
 * Exercise Prescription and Resistance Training
 * Research Assistants (Undergraduate) 
 
+Diploma level
 
-Diploma level 
-
-* Specialist Diploma in Sports and Exercise Science
+* [Specialist Diploma in Sports and Exercise Science](https://www.rp.edu.sg/ace/course-summary/Detail/sdses)
 * Specialist Diploma in Sports Coaching
-* Basic Sports Science Course
 
-Data and Software Carpentry
+Certificate Courses
+
+* [SG-Coach Level 1 Theory](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/sg-coach-level-1-theory-programme)
+* [Basic Sports Science Course](https://www.sportsingapore.gov.sg/athletes-coaches/coaches-corner/singapore-coach-excellence-programme-sg-coach/basic-sports-science-course)
+
+[Data](https://datacarpentry.org/) and [Software](https://software-carpentry.org/) Carpentry
 

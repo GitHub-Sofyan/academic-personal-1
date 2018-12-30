@@ -6,7 +6,7 @@ title = "Testing a Perceptual Phenomenon - The Stroop Effect"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect.."
+summary = "In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -37,7 +37,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  caption = "featured.png"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

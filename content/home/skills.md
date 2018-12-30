@@ -24,13 +24,13 @@ weight = 7
 
 [[feature]]
   icon = "square-root-alt"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Biomechanics"
   description = "100%"
 
 [[feature]]
   icon = "skiing-nordic"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "3D Motion Analysis"
   description = "Vicon Nexus and XSens"
 

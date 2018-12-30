@@ -49,7 +49,7 @@ weight = 7
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = ""SQL and Athlete Management System (Database)"
+  name = "SQL and Athlete Management System (Database)"
   description = "Over the years as a coach, I have accumulated thousands of spreadsheets, data etc. A few years ago, I started trying to organise them, especially when as Sports Science Coordinator, I had to consolidate data from different disciplines (e.g. YPIs, training programs, medical, physiological, nurtitrional plan, videos). This triggered my passion for database management. And as more coaches will tell you, the more information we have about the athelete, the better we can train them."
 
 [[feature]]

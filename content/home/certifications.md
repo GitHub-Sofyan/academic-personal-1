@@ -70,6 +70,4 @@ weight = 8
   name = "Weightlifting (Level 1)"
   description = "National Coaching Accreditation Program"
 
-{{< figure library="1" src="cscs.png" title="CSCS" >}}
-
 +++

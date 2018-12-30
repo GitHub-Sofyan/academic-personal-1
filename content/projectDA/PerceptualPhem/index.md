@@ -10,7 +10,7 @@ summary = "In this project, I investigated a classic phenomenon from experimenta
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Statistics", "Stroop Effect"]
+tags = ["statistics", "stroop Effect"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/GitHub-Sofyan/Data-Analysis-_Testing_a_Perceptual_Phenomenon"

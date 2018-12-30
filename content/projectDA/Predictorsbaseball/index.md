@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Stretch Shorten Cycle Across the different Maturational Stages (Pre, Pubescent and Post)."
+title = "What are the predictors of baseball performance?"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "Research Question: Is there a relationship between anthropometric data with baseball performance?"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["youth development", "training", "curriculum"]
+tags = ["Baseball", "predictors", "Tableau", "Sports Analytics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://public.tableau.com/profile/sofyan.sahrom#!/vizhome/DAND-FinalVisualisation/DAND-FirstVisualisation"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

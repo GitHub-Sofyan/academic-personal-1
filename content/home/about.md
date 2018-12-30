@@ -60,7 +60,7 @@ weight = 5
   institution = "Udacity"
   year = 2018
 
-[interests]
+[Trial]
   interests = [
     "Tests"
   ]

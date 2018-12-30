@@ -25,8 +25,8 @@ weight = 7
 [[feature]]
   icon = "square-root-alt"
   icon_pack = "fas"
-  name = "Biomechanics"
-  description = "100%"
+  name = "Performance Analysis"
+  description = "Biomechanics"
 
 [[feature]]
   icon = "skiing-nordic"
@@ -55,14 +55,20 @@ weight = 7
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Performance Analysis"
-  description = "Notational and Game Analysis"  
+  name = "Notational Analysis"
+  description = "[Notational and Game Analysis](www.google.com)"  
   
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
   name = "Strength and Conditioning"
-  description = "Physical Development"
+  description = "I have been a Strength and Conditioning Coach for the past 12 years. And have worked with a wide variety of athletes across the whole development spectrum"
+
+[[feature]]
+  icon = "football-ball"
+  icon_pack = "fas"
+  name = "Coaching"
+  description = "Other than Strength and Conditioning, I also coach Rugby, Athletics and Weightlifting"
 
 [[feature]]
   icon = "heartbeat"

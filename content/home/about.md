@@ -81,3 +81,5 @@ I am honored to be recognised as a SkillsFuture Fellow for 2018.
 SkillsFuture Fellow 2018
 
 * Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
+
+[SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18)

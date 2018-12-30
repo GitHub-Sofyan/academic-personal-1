@@ -45,7 +45,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Principle Consultant"
   company = "State of Fitness SG"
-  company_url = "https://www.sportsingapore.gov.sg/Athletes-Coaches/Singapore-Sports-Institute/"
+  company_url = "https://www.stateoffitness.sg/"
   location = "Singapore"
   date_start = "2013-12-01"
   date_end = ""

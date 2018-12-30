@@ -25,38 +25,38 @@ weight = 8
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
-  name = "Certified Strength and Conditioning Specialist (CSCS)"
-  description = "National Strength and Conditioning Association (NSCA)"
+  name = "[Certified Strength and Conditioning Specialist (CSCS)](https://www.nsca.com/certification/cscs/)"
+  description = "[National Strength and Conditioning Association (NSCA)](https://www.nsca.com/)"
   
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
-  name = "Registered Strength and Conditioning Coach _with Distinction_ (RSCC*D)"
-  description = "National Strength and Conditioning Association (NSCA)"
+  name = "[Registered Strength and Conditioning Coach _with Distinction_ (RSCC*D)](https://www.nsca.com/certification/cscs/rscc-designation/)"
+  description = "[National Strength and Conditioning Association (NSCA)](https://www.nsca.com/)"
 
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
-  name = "Professsional Structure Coach - Professional"
-  description = "Australian Strength and Conditioning Association (ASCA)"
+  name = "[Professsional Structure Coach - Professional](https://www.strengthandconditioning.org/professional-coaches)"
+  description = "[Australian Strength and Conditioning Association (ASCA)](https://www.strengthandconditioning.org/)"
 
 [[feature]]
   icon = "running"
   icon_pack = "fas"
   name = "IAAF CECS Level 1 Youth Coach"
-  description = "International Association of Athletics Federations (IAAF)"
+  description = "[International Association of Athletics Federations (IAAF)](https://www.iaaf.org/)"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Performance Analyst"
-  description = "International Society of Performance Analysis in Sports (ISPAS)"
+  name = "[Performance Analyst](http://www.ispas.org/join.html)"
+  description = "[International Society of Performance Analysis in Sports (ISPAS)](http://www.ispas.org/)"
 
 [[feature]]
   icon = "child"
   icon_pack = "fas"
   name = "ISAK Level 2 Anthropometrists (Full Profile)"
-  description = "International Society for the Advancement of Kinanthropometry (ISAK)"
+  description = "[International Society for the Advancement of Kinanthropometry (ISAK)](https://www.isak.global/)"
 
 [[feature]]
   icon = "football-ball"

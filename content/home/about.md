@@ -81,4 +81,4 @@ I am honored to be recognised as a [SkillsFuture Fellow](http://www.skillsfuture
 
 * Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
 
-{{< figure src="cscs.png" title="A caption" >}}
+{{< figure library="1" src="cscs.png" title="CSCS" >}}

@@ -38,7 +38,7 @@ projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["water polo", "notational analysis", "rule change"]
 
 # Links (optional).
 url_pdf = "https://efsupit.ro/images/stories/1aprilie2018/art%2072.pdf"

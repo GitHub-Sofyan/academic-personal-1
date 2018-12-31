@@ -10,12 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Biomechanics",
     "Muscle biomechanics and physiology",
     "Performance Analysis",
+    "Notational Analysis",
     "Data Analysis",
     "Data Management in Sports",
-    "Youth and Coaching Development",
+    "Youth and Coach Development",
     "Hoplology"
   ]
 
@@ -65,19 +65,16 @@ weight = 5
 
 # Biography
 
-I am an athlete developer with a belief that high performance is achieved through an integrated multi-disciplinary approach, based on actual data and not just pure empirical "say-so". I passionately believes in a long-term and data-driven approach to development for both athlete and coach.
+As an athlete developer, I believe in achieving high athletic performance through an integrated multi-disciplinary approach for both athletes and coaches. To achieve this outcome, I strongly believe in investing in a long-term data-driven approach. To date, I have been fortunate to be able to marry my love for Coaching and Data Analytics, to boost sports performance.
 
-As an Strength and Conditioning (S&C) Coach, I have had the honor of coaching athletes throughout the full training spectrum from developmental youths to elite adults.
+As a Strength and Conditioning (S&C) Coach for more than twelve years, I have coached athletes through the full spectrum from developmental youths to elite adults athletes.
 
-As a Sports Science practitioner, I have contributed through several sports science disciplines and am a firm believer of an integrated/interdisciplinary approach.
+As a Sports Science practitioner, I have worked in several sports science disciplines, and have served as a sports science coordinator for high performance athletes at the Olympic level.
 
-As a Data Analyst, I am looking to develop further into machine learning and its integration in sports performance
+As a Data Analyst, I am working towards combining machine learning and its integration with sports performance.
 
-Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning.
+My experience is in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning.
 
-An Eternal Student:
-_"Always Learning, Always Growing"_
+In 2018, I was conferred the [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18) title by the [President of the Republic of Singapore](https://www.istana.gov.sg/) in recognition of my skills and my commitment to mentor aspiring coaches.
 
-I am honored to be recognised as a [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18) for 2018.
-
-* Presented by the [President of the Republic of Singapore](https://www.istana.gov.sg/), the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
+An Eternal Student, _"Always Learning, Always Growing"_

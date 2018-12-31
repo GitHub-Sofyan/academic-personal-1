@@ -42,14 +42,14 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://journals.lww.com/nsca-scj/Abstract/2013/06000/Understanding_Stretch_Shortening_Cycle_Ability_in.10.aspx?trendmd-shared=%25SPONSORED%25"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
 url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

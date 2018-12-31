@@ -34,7 +34,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = ["sspssc"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,14 +42,15 @@ tags = []
 
 # Links (optional).
 url_pdf = "http://scitechnol.com/slow-stretchshorten-cycle-characteristics-gender-and-maturation-differences-in-singaporean-youths-bRBy.pdf"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
 url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_slides = ""
+url_video = ""
+url_poster1 = ""
+url_poster2 = "poster1.png"
+url_source = "poster2.jpg"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

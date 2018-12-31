@@ -6,14 +6,14 @@ title = "Stretch Shorten Cycle Across the different Maturational Stages (Pre, Pu
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "At the Singapore Sports School, we embraced the Long-Term Athletic Development Philosophy. However at that time, LTAD, was still largely empharical especially for Asian youths. I embarked on a project to try to understand the development of stretch shorten cycle across the different maturational stages (Pre, Pubescent and Post)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["youth development", "training", "curriculum"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "aut.researchgateway.ac.nz/handle/10292/5529"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

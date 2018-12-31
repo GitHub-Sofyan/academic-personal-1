@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects (Data Analysis)"
-subtitle = ""
+subtitle = "Some of my initial projects that I embarked on to develop my Data Analysis skills using publicly availiable data"
 
 # Order that this section will appear in.
 weight = 51

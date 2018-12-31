@@ -17,7 +17,7 @@ weight = 60
 
 Postgraduate level
 
-* Tutor for a topic (unit) in a Masters-level unit: "Data Visualisation and Introduction to R
+* Tutor for a topic (unit) in a Masters-level unit: "Data Visualisation and Introduction to R"
 
 Undergraduate level
 

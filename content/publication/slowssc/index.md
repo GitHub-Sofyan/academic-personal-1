@@ -48,9 +48,9 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster1 = ""
-url_poster2 = "poster1.png"
-url_source = "poster2.jpg"
+url_poster1 = "poster1.png"
+url_poster2 = "poster2.jpg"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

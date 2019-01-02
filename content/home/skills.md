@@ -23,6 +23,18 @@ weight = 7
 
 
 [[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Laboratory"
+  description = "Pressure and force transducer/platform, ultrasound, electromyography (EMG), 3D printing"
+
+[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Laboratory (Softwares)"
+  description = "LabVIEW, ImageJ, Adobe Photoshop"
+
+[[feature]]
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Performance Analysis"

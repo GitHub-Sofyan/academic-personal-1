@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Muscle biomechanics and physiology",
-    "Comparative Biology"
+    "Comparative Biology",
     "Biomechanics",
     "Notational Analysis",
     "Data Analysis",

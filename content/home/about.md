@@ -11,11 +11,13 @@ weight = 5
 [interests]
   interests = [
     "Muscle biomechanics and physiology",
-    "Performance Analysis",
+    "Comparative Biology"
+    "Biomechanics",
     "Notational Analysis",
     "Data Analysis",
     "Data Management in Sports",
     "Youth and Coach Development",
+    "Epistemology",
     "Hoplology"
   ]
 

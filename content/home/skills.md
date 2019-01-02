@@ -28,7 +28,7 @@ weight = 7
   name = "Laboratory"
   description = "Pressure and force transducer/platform, ultrasound, electromyography (EMG), 3D printing"
 
-[feature]]
+[[feature]]
   icon = "desktop"
   icon_pack = "fas"
   name = "Laboratory (Softwares)"

@@ -14,7 +14,7 @@ weight = 5
     "Comparative Biology",
     "Biomechanics",
     "Notational Analysis",
-    "Data Analysis",
+    "Data Analytics",
     "Data Management in Sports",
     "Youth and Coach Development",
     "Epistemology",

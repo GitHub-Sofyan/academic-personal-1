@@ -80,3 +80,5 @@ My experience is in the area of Biomechanics, Performance Analysis, Data Analyti
 In 2018, I was conferred the [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18) title by the [President of the Republic of Singapore](https://www.istana.gov.sg/) in recognition of my skills and my commitment to mentor aspiring coaches.
 
 An Eternal Student, _"Always Learning, Always Growing"_
+
+2019

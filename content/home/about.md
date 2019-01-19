@@ -65,7 +65,7 @@ weight = 5
 
 +++
 
-# About Me
+# Welcome
 
 As an athlete developer, I believe in achieving high athletic performance through an integrated multi-disciplinary approach for both athletes and coaches. To achieve this outcome, I strongly believe in investing in a long-term data-driven approach. To date, I have been fortunate to be able to marry my love for Coaching and Data Analytics, to boost sports performance.
 

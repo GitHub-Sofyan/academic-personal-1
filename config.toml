@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "s.sahrom@ecu.edu.au"
+  email = "sofyan@sofyan.com.sg"
   address = "Building 21 Room 501, Edith Cowan University, Joondalup, 6027, Western Australia"
   office_hours = """
   Monday to Thursday 05:00 to 11:00\\

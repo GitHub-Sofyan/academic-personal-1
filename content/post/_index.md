@@ -10,6 +10,6 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "skillsfuture.jpg"
+caption = "SkillsFuture Fellowship Award"
 +++

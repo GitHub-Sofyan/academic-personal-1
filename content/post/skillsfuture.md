@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "SkillsFuture Fellowship Award 2018"
 date = 2019-01-01T00:00:00
 
 # List format.
@@ -11,7 +11,7 @@ list_format = 2
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "skillsfuture.jpg"
-caption = "SkillsFuture Fellowship Award"
+caption = "Honored to be awarded the SkillsFuture Fellowship Award"
 +++
 
 SkillsFuture Fellowship 2018

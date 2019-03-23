@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sofyan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.sofyan.sg
+  * I am sofyan (https://keybase.io/sofyan) on keybase.
+  * I have a public key ASDEDtuAun_ZwNP4PSDCrzMpYmQyTfUOAWQ2XlILiEO4TQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204ce250edcb91188114b3d1600b311abc5e325db071a96cf63601fefaefba99190a",
+      "host": "keybase.io",
+      "kid": "0120c40edb80ba7fd9c0d3f83d20c2af33296264324df50e0164365e520b8843b84d0a",
+      "uid": "71362f25224216617194845bb7a29519",
+      "username": "sofyan"
+    },
+    "merkle_root": {
+      "ctime": 1553348313,
+      "hash": "c8818e2b9c014e2e54429e90095bc9661a6a357b7c5b01105597f56a722b83f4562afeb12b9cea0222f5abbac1a2c6f426e52a1d218a7be052dd370e44991b3e",
+      "hash_meta": "16210a1abff3905c8fd803266f063758d966546c0884e24136044d6f242391f1",
+      "seqno": 5007304
+    },
+    "service": {
+      "entropy": "z2LPBIEcsuysGJjRVArtvfKN",
+      "hostname": "www.sofyan.sg",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553348322,
+  "expire_in": 504576000,
+  "prev": "9f60dbe8bbb603c0fab83e1afeb85681207328f177efd43279a2ecaab8cf1a6b",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxA7bgLp/2cDT+D0gwq8zKWJkMk31DgFkNl5SC4hDuE0Kp3BheWxvYWTESpcCE8Qgn2Db6Lu2A8D6uD4a/rhWgSBzKPF379QyeaLsqrjPGmvEIPpJf+aLjBp5W710Fo9Q23ZVQ8S+IzbuH9ALPzOJAfybAgHCo3NpZ8RAZOPdBRcEnhrO27O3vurWftJT3RGfFXONiZY8DPoUmFM7vAbu/5JxAK650mkzlgOwx9TOqQzS23nZ4AlcPWj6CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO+NKCyueIR2LxaG0EJbvPqmPyWmj40IvUpLfAG98Vf4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sofyan
+
+==================================================================

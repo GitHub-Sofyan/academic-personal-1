@@ -41,9 +41,9 @@ date_format = "January 2006"
   date_start = "2019-03-03"
   date_end = "2019-05-10"
   description = """
-1) Assess the quality of the data sets held in the Western Australian Open Data portal in light of other open data sources and emerging technologies (particularly Machine Learning and Artificial Intelligence) that are being seen internationally;
-2) Provide a report detailing where the main gaps fall within the DataWA collection and what standards are required for future-readying it;
-3) Within this report, provide a series of tangible “next steps” as a recommendation for Landgate on what standards need to be applied and what steps need to be taken in readying this data for use through emerging technologies.
+  * Assess the quality of the data sets held in the Western Australian Open Data portal in light of other open data sources and emerging technologies (particularly Machine Learning and Artificial Intelligence) that are being seen internationally;
+  * Provide a report detailing where the main gaps fall within the DataWA collection and what standards are required for future-readying it;
+  * Within this report, provide a series of tangible “next steps” as a recommendation for Landgate on what standards need to be applied and what steps need to be taken in readying this data for use through emerging technologies.
   """
 
 [[experience]]

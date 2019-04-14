@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://musing-stallman-fefed5.netlify.com/* https://www.sofyan.sg/:splat 301!

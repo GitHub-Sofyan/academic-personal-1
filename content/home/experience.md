@@ -23,12 +23,14 @@ date_format = "January 2006"
   company = "Edith Cowan University"
   company_url = "www.ecu.edu.au/"
   location = "Perth, Western Australia"
-  date_start = "2019-03-03"
-  date_end = "2019-05-10"
+  date_start = "2015-07-01"
+
   description = """
-1) Assess the quality of the data sets held in the Western Australian Open Data portal in light of other open data sources and emerging technologies (particularly Machine Learning and Artificial Intelligence) that are being seen internationally;
-2) Provide a report detailing where the main gaps fall within the DataWA collection and what standards are required for future-readying it;
-3) Within this report, provide a series of tangible “next steps” as a recommendation for Landgate on what standards need to be applied and what steps need to be taken in readying this data for use through emerging technologies.
+  * Tutor for 1st and 2nd year (undergraduate) biomechanics and functional anatomy
+  * Tutor for Statistical Research Methods
+  * Tutor for a topic in a Masters-level unit: "Data Visualisation and Introduction to R"
+  * Practicum supervisor for Exercise Prescription and Resistance Training
+  * Practicum supervisor for Research Assistants (Undergraduate) 
   """
 
 [[experience]]
@@ -36,14 +38,12 @@ date_format = "January 2006"
   company = "Landgate"
   company_url = "https://www0.landgate.wa.gov.au/"
   location = "Perth, Western Australia"
-  date_start = "2015-07-01"
-  date_end = ""
+  date_start = "2019-03-03"
+  date_end = "2019-05-10"
   description = """
-  * Tutor for 1st and 2nd year (undergraduate) biomechanics and functional anatomy
-  * Tutor for Statistical Research Methods
-  * Tutor for a topic in a Masters-level unit: "Data Visualisation and Introduction to R"
-  * Practicum supervisor for Exercise Prescription and Resistance Training
-  * Practicum supervisor for Research Assistants (Undergraduate) 
+1) Assess the quality of the data sets held in the Western Australian Open Data portal in light of other open data sources and emerging technologies (particularly Machine Learning and Artificial Intelligence) that are being seen internationally;
+2) Provide a report detailing where the main gaps fall within the DataWA collection and what standards are required for future-readying it;
+3) Within this report, provide a series of tangible “next steps” as a recommendation for Landgate on what standards need to be applied and what steps need to be taken in readying this data for use through emerging technologies.
   """
 
 [[experience]]

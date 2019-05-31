@@ -65,7 +65,7 @@ weight = 5
 
 +++
 
-# Welcome
+# Biography
 
 As an athlete developer, I believe in achieving high athletic performance through an integrated multi-disciplinary approach for both athletes and coaches. To achieve this outcome, I strongly believe in investing in a long-term data-driven approach. To date, I have been fortunate to be able to marry my love for Coaching and Data Analytics, to boost sports performance.
 
@@ -80,8 +80,3 @@ My experience is in the area of Biomechanics, Performance Analysis, Data Analyti
 In 2018, I was conferred the [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18) title by the [President of the Republic of Singapore](https://www.istana.gov.sg/) in recognition of my skills and my commitment to mentor aspiring coaches.
 
 An Eternal Student, _"Always Learning, Always Growing"_
-January 2019
-
-# The Story So Far
-
-To be Written

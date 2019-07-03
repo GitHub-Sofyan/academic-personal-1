@@ -19,6 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Project Officer (DataWA Portal)"
+  company = "Edith Cowan University"
+  company_url = "https://www.landgate.wa.gov.au/"
+  location = "Perth, Western Australia"
+  date_start = "2019-03-01"
+  date_end = "2019-05-30"
+  description = """
+  1) Assess the quality of the data sets held in the Western Australian Open Data portal in light of other open data sources and emerging technologies (particularly Machine Learning and Artificial Intelligence) that are being seen internationally;
+  2) Provide a report detailing where the main gaps fall within the DataWA collection and what standards are required for future-readying it;
+  3) Within this report, provide a series of tangible “next steps” as a recommendation for Landgate on what standards need to be applied and what steps need to be taken in readying this data for use through emerging technologies.
+  """
+
+[[experience]]
   title = "Academic Sessional"
   company = "Edith Cowan University"
   company_url = "www.ecu.edu.au/"

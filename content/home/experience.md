@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Project Officer (DataWA Portal)"
-  company = "Edith Cowan University"
+  company = "Landgate (Western Australian Land Information Authority)"
   company_url = "https://www.landgate.wa.gov.au/"
   location = "Perth, Western Australia"
   date_start = "2019-03-01"

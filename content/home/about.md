@@ -11,14 +11,15 @@ weight = 5
 [interests]
   interests = [
     "Muscle biomechanics and physiology",
-    "Comparative Biology",
     "Biomechanics",
+    "Comparative Biology",
     "Notational Analysis",
-    "Data Analytics",
-    "Data Management in Sports",
+    "Data Analytics and Management in Sports",
+    "Terrestrial locomotion"
     "Youth and Coach Development",
     "Epistemology",
-    "Hoplology"
+    "Hoplology",
+    "Martial Arts"
   ]
 
 # List your qualifications (such as academic degrees).

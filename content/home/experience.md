@@ -19,6 +19,16 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Sports Scientist/Strength and Conditioning Coachl"
+  company = "Goalball WA"
+  company_url = "https://www.goalballwa.com"
+  location = "Perth, Western Australia"
+  date_start = "20152019-07-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
   title = "Project Officer (DataWA Portal)"
   company = "Landgate (Western Australian Land Information Authority)"
   company_url = "https://www.landgate.wa.gov.au/"

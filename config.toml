@@ -73,7 +73,7 @@ enableGitInfo = false
   phone = "888 888 88 88"
   skype = "sofyan_sahrom"
   telegram = ""
-  keybase = ""  # Your keybase.io username.
+  keybase = "sofyan"  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""

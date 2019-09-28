@@ -15,7 +15,7 @@ weight = 5
     "Comparative Biology",
     "Notational Analysis",
     "Data Analytics and Management in Sports",
-    "Terrestrial locomotion"
+    "Terrestrial locomotion",
     "Youth and Coach Development",
     "Epistemology",
     "Hoplology",

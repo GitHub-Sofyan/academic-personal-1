@@ -10,7 +10,7 @@ summary = "Beyond jump height: Understanding the kinematics and kinetics of the 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = ["Vertical Jump", "higher-order derivatives"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://ro.ecu.edu.au/theses/2235/"

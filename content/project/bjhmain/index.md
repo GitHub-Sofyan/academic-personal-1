@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "PhD Project"
+title = "Beyond Jump Height: Predicting your lower limb anatomical, mechanical and neuromuscular characteristics from the vertical jump."
 
 # Date this page was created.
 date = 2016-04-27T00:00:00

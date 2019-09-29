@@ -19,13 +19,14 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Sports Scientist/Strength and Conditioning Coachl"
+  title = "Sports Scientist/Strength and Conditioning Coach"
   company = "Goalball WA"
   company_url = "https://www.goalballwa.com"
   location = "Perth, Western Australia"
   date_start = "2019-07-01"
   date_end = ""
   description = """
+  Apply an interdisciplinary approach to provide sports science support to improve the performance of the Goalball WA team. Provide a training intervention and recommendations to the current existing training pipeline and program. 
   """
 
 [[experience]]

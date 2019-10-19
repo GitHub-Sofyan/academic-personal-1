@@ -88,4 +88,9 @@ weight = 7
   name = "EMT-B"
   description = "Emergency Medical Technician (Basic). I started out my sports science career as a Sports Masseur/Sports Trainer (i.e., first aider/rehabilitation assistant) and spent several years providing first aid, other medical support and rehabilitation to fellow athletes. Earning my Emergency Medical Technician (Basic) was a natural progression to achieve a higher level of skill and competency. And while I have moved into the area of Biomechanics, I make it a point to always maintain my currency and competency in these skills as I sincerly do enjoy doing it."
 
+[[feature]]
+  icon = "heartbeat"
+  icon_pack = "fas"
+  name = "AusREP (Level 3)"
+  description = "Australia Register of Exercise Professionals (AusREP). Level 3"
 +++

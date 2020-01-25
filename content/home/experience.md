@@ -19,6 +19,17 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Officer"
+  company = "The Raine Study, University of Wesern Australia"
+  company_url = "https://rainestudy.org.au/"
+  location = "Perth, Western Australia"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = """
+  I handle data request, clean and manage data for the Raine Study. 
+  """
+
+[[experience]]
   title = "Sports Scientist/Strength and Conditioning Coach"
   company = "Goalball WA"
   company_url = "https://www.goalballwa.com"

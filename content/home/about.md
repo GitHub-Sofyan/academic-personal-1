@@ -26,12 +26,12 @@ weight = 5
 [[education.courses]]
   course = "Diploma in Engineering"
   institution = "Temasek Polytechnic"
-  year = 2023 (Expected Graduation)
+  year = 2023 
 
 [[education.courses]]
   course = "Bachelor of General Studies"
   institution = "Singapore University of Social Science"
-  year = 2024 (Expected Graduation)
+  year = 2024
 
 [[education.courses]]
   course = "Doctor of Philosophy in Biomechanics"

@@ -24,6 +24,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Diploma in Engineering"
+  institution = "Temasek Polytechnic"
+  year = 2023 (Expected Graduation)
+
+[[education.courses]]
+  course = "Bachelor of General Studies"
+  institution = "Singapore University of Social Science"
+  year = 2024 (Expected Graduation)
+
+[[education.courses]]
   course = "Doctor of Philosophy in Biomechanics"
   institution = "Edith Cowan University"
   year = 2019
@@ -52,11 +62,6 @@ weight = 5
   course = "Bachelor of Science in Sports Science"
   institution = "Edith Cowan University"
   year = 2007
-
-[[education.courses]]
-  course = "Bachelor of General Studies"
-  institution = "Singapore University of Social Science"
-  year = 2022
 
 [[education.courses]]
   course = "Data Analysis Nanodegree"

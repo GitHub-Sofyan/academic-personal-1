@@ -74,7 +74,7 @@ weight = 5
 
 As an athlete developer, I believe in achieving high athletic performance through an integrated multi-disciplinary approach for both athletes and coaches. To achieve this outcome, I strongly believe in investing in a long-term data-driven approach. To date, I have been fortunate to be able to marry my love for Coaching and Data Analytics, to boost sports performance.
 
-As a Strength and Conditioning (S&C) Coach for more than twelve years, I have coached athletes through the full spectrum from developmental youths to elite adults athletes.
+As a Strength and Conditioning (S&C) Coach for more than fourteen years, I have coached athletes through the full spectrum from developmental youths to elite adults athletes.
 
 As a Sports Science practitioner, I have worked in several sports science disciplines, and have served as a sports science coordinator for high performance athletes at the Olympic level.
 

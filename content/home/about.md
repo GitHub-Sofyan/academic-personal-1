@@ -11,11 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Muscle biomechanics and physiology",
-    "Biomechanics",
-    "Comparative Biology",
-    "Notational Analysis",
-    "Data Analytics and Management in Sports",
     "Terrestrial locomotion",
+    "Comparative Biology",
+    "Performance Analysis",
+    "Data Analytics and Management in Sports",
     "Youth and Coach Development",
     "Epistemology",
     "Hoplology",
@@ -24,9 +23,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Diploma in Engineering"
+  course = "Specialist Diploma in Industrial Internet of Things"
   institution = "Temasek Polytechnic"
-  year = 2023 
+  year = 2021 
 
 [[education.courses]]
   course = "Bachelor of General Studies"

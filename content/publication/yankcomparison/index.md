@@ -1,10 +1,10 @@
 +++
 title = "Comparison of methods of derivation of the yank-time signal from the vertical ground reaction force-time signal for identification of movement-related events"
-date = 2020-11-26T00:00:00
+date = 2020-10-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sofyan Sahrom ", "Jodie Cochran", "Ken Nosaka", "John Cronin"]
+authors = ["Sofyan Sahrom ", "Jodie Cochran", "Ken Nosaka", "Anthony Blazevich"]
 
 
 # Publication type.

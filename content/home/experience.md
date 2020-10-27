@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://rainestudy.org.au/"
   location = "Perth, Western Australia"
   date_start = "2019-11-01"
-  date_end = ""
+  date_end = "2020-02-01"
   description = """
   I handle data request, clean and manage data for the Raine Study. 
   """
@@ -35,7 +35,7 @@ date_format = "January 2006"
   company_url = "https://www.goalballwa.com"
   location = "Perth, Western Australia"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2020-01-31"
   description = """
   Apply an interdisciplinary approach to provide sports science support to improve the performance of the Goalball WA team. Provide a training intervention and recommendations to the current existing training pipeline and program. 
   """
@@ -49,7 +49,9 @@ date_format = "January 2006"
   date_end = "2019-05-30"
   description = """
   1) Assess the quality of the data sets held in the Western Australian Open Data portal in light of other open data sources and emerging technologies (particularly Machine Learning and Artificial Intelligence) that are being seen internationally;
+  
   2) Provide a report detailing where the main gaps fall within the DataWA collection and what standards are required for future-readying it;
+  
   3) Within this report, provide a series of tangible “next steps” as a recommendation for Landgate on what standards need to be applied and what steps need to be taken in readying this data for use through emerging technologies.
   """
 

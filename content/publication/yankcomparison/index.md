@@ -19,8 +19,8 @@ authors = ["Sofyan Sahrom ", "Jodie Cochran", "Ken Nosaka", "John Cronin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Royal Society Open Science*"
-publication_short = "In *JPES*"
+publication = "In *Journal of Biomechanics*"
+publication_short = "In *JBio*"
 
 # Abstract and optional shortened version.
 abstract = "Temporal changes in ground reaction force magnitudes reflect movement strategy, and thus underlying muscle activation patterns, during movement tasks. Speculatively, these changes may be observed more readily when the force-time signal is differentiated, yielding the yank-time signal. However, the differentiation process, including the signal filtering used before or after differentiation, can significantly affect the signal-to-noise ratio (SNR) and likelihood of meaningful inference. The aim of the present study was to compare three methods of deriving the yank-time signal: Method 1 derived the yank-time signal using 2nd-order central differentiation subsequent to application of a 4th-order Butterworth filter; Method 2 included the same process as Method 1 but additionally filtered the yank-time data with a Savitzky-Golay smoothing filter; and Method 3 directly and simultaneously derived and smoothed the yank-time signal using a Savitzky-Golay digital differentiation filter. The current analyses revealed Method 2 had the best SNR, followed by Method 3 and 1, but caused a small loss of signal amplitude. With regards to timing of inflection points in the yank-time data, no significant difference was observed. Therefore, Method 3 led to the best derivation of the yank-time signal due to its efficiency and preservation of signal characteristics and good SNR. Also, a strong association between the first maximum point of the yank-time signal and the start of the downward movement of the body’s centre of mass during a countermovement jump, as identified by 3-D motion analysis, was observed. Thus, subtle events (e.g. start of downward movement) can be easily observed in the yank-time signal."

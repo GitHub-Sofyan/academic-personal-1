@@ -92,5 +92,5 @@ weight = 7
   icon = "heartbeat"
   icon_pack = "fas"
   name = "AusREP (Level 3)"
-  description = "Australia Register of Exercise Professionals (AusREP). Level 3"
+  description = "Australia Register of Exercise Professionals (AusREP). Level 3 (Advanced) represents an exercise professional who has a more progressed level of knowledge and skill and has considerable experience to draw upon. It is expected that a professional at this stage of development can combine the use of competencies, experience and critical thinking skills in practice."
 +++

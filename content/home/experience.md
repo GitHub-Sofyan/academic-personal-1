@@ -19,6 +19,41 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Sport Physiologist"
+  company = "National Youth Sports Institute"
+  company_url = "www.nysi.org.sg"
+  location = "Kallang, Singapura"
+  date_start = "2020-12-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
+  title = "Adjunct Lecturer"
+  company = "Edith Cowan University"
+  company_url = "www.ecu.edu.au/"
+  location = "Perth, Western Australia"
+  date_start = "2015-07-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
+  title = "Senior Analyst, Health Services Researcher"
+  company = "Changi General Hospital"
+  company_url = "http://www.cgh.com.sg/"
+  location = "Simei, Singapura"
+  date_start = "2020-02-01"
+  date_end = "2020-10-31"
+  description = """
+  Health Services Research provides analytical and research support for evidence-based management and clinical decision-making at Changi General Hospital.
+  The main goals of health services research are to:
+  1) Identify the most effective ways to organise, manage, finance, and deliver high-quality care
+  2) Reduce medical errors
+  3) Improve patient safety 
+  """
+
+[[experience]]
   title = "Data Officer"
   company = "The Raine Study, University of Wesern Australia"
   company_url = "https://rainestudy.org.au/"

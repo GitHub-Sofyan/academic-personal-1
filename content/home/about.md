@@ -16,6 +16,7 @@ weight = 5
     "Performance Analysis",
     "Data Analytics and Management in Sports",
     "Youth and Coach Development",
+    "Ramadhan Fasting | Intermittent Fasting",
     "Epistemology",
     "Hoplology",
     "Martial Arts"
@@ -25,12 +26,12 @@ weight = 5
 [[education.courses]]
   course = "Specialist Diploma in Industrial Internet of Things"
   institution = "Temasek Polytechnic"
-  year = 2021 
+  year = 2021 (Expected)
 
 [[education.courses]]
   course = "Bachelor of General Studies"
   institution = "Singapore University of Social Science"
-  year = 2024
+  year = 2024 (Expected)
 
 [[education.courses]]
   course = "Doctor of Philosophy in Biomechanics"

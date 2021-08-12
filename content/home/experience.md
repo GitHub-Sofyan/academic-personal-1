@@ -184,8 +184,6 @@ date_format = "January 2006"
   date_start = "2006-05-01"
   date_end = "2006-12-31"
   description = """
-  * Assists Sports Physiologist and Principal Laboratory officer with both field and laboratory based testing. 
-  * Perform routine basic laboratory duties and other maintenances.
   """
 
 [[experience]]

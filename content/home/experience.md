@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Sport Physiologist"
+  title = "Senior Performance Pathways Specialist | Team Lead, Physiology"
   company = "National Youth Sports Institute"
   company_url = "www.nysi.org.sg"
   location = "Kallang, Singapura"
@@ -28,6 +28,15 @@ date_format = "January 2006"
   description = """
   """
 
+[[experience]]
+  title = "Lecturer"
+  company = "Nanyang Technological University"
+  company_url = "https://www.ntu.edu.sg/"
+  location = "Nanyang, Singapura"
+  date_start = "2015-07-01"
+  date_end = ""
+  description = """
+  """
 [[experience]]
   title = "Adjunct Lecturer"
   company = "Edith Cowan University"

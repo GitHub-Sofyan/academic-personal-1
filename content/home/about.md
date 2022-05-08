@@ -21,7 +21,6 @@ weight = 5
     "Hoplology",
     "Martial Arts"
   ]
-
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Specialist Diploma in Industrial Internet of Things"

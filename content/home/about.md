@@ -22,11 +22,15 @@ weight = 5
     "Martial Arts"
   ]
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Specialist Diploma in Industrial Internet of Things"
+  institution = "Temasek Polytechnic"
+  year = 2021
 
 [[education.courses]]
   course = "Bachelor of General Studies"
   institution = "Singapore University of Social Science"
-  year = 2024 (Expected)
+  year = 2024 
 
 [[education.courses]]
   course = "Doctor of Philosophy in Biomechanics"

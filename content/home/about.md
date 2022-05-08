@@ -22,10 +22,6 @@ weight = 5
     "Martial Arts"
   ]
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Specialist Diploma in Industrial Internet of Things"
-  institution = "Temasek Polytechnic"
-  year = 2021 (Expected)
 
 [[education.courses]]
   course = "Bachelor of General Studies"

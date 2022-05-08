@@ -16,7 +16,7 @@ weight = 5
     "Performance Analysis",
     "Data Analytics and Management in Sports",
     "Youth and Coach Development",
-    "Ramadhan Fasting | Intermittent Fasting",
+    "Fasting (Ramadhan)",
     "Epistemology",
     "Hoplology",
     "Martial Arts"
@@ -71,6 +71,7 @@ weight = 5
 +++
 
 # Biography
+I'll connect the dots for you..... | Inquistive Individual
 
 As an athlete developer, I believe in achieving high athletic performance through an integrated multi-disciplinary approach for both athletes and coaches. To achieve this outcome, I strongly believe in investing in a long-term data-driven approach. To date, I have been fortunate to be able to marry my love for Coaching and Data Analytics, to boost sports performance.
 
@@ -82,6 +83,6 @@ As a Data Analyst, I am working towards combining machine learning and its integ
 
 My experience is in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning.
 
-In 2018, I was conferred the [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships/b18) title by the [President of the Republic of Singapore](https://www.istana.gov.sg/) in recognition of my skills and my commitment to mentor aspiring coaches.
+In 2018, I was conferred the [SkillsFuture Fellow](https://www.skillsfuture.gov.sg/fellowships/b18) title by the [President of the Republic of Singapore](https://www.istana.gov.sg/) in recognition of my skills and my commitment to mentor aspiring coaches.
 
 An Eternal Student, _"Always Learning, Always Growing"_

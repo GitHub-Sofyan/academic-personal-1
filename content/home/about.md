@@ -12,14 +12,12 @@ weight = 5
   interests = [
     "Muscle biomechanics and physiology",
     "Terrestrial locomotion",
-    "Comparative Biology",
-    "Performance Analysis",
     "Data Analytics and Management in Sports",
     "Youth and Coach Development",
     "Fasting (Ramadhan)",
     "Epistemology",
-    "Hoplology",
-    "Martial Arts"
+    "Hoplology | Martial Arts",
+    "Combat Sports"
   ]
 # List your qualifications (such as academic degrees).
 [[education.courses]]

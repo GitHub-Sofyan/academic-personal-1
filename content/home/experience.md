@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Performance Pathways Specialist | Team Lead, Physiology"
+  title = "Senior Performance Pathways Specialist | Team Lead, Physiology | Team Lead, Team 3"
   company = "National Youth Sports Institute"
   company_url = "www.nysi.org.sg"
   location = "Kallang, Singapura"
@@ -33,7 +33,7 @@ date_format = "January 2006"
   company = "Nanyang Technological University"
   company_url = "https://www.ntu.edu.sg/"
   location = "Nanyang, Singapura"
-  date_start = "2015-07-01"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   """
@@ -42,9 +42,10 @@ date_format = "January 2006"
   company = "Edith Cowan University"
   company_url = "www.ecu.edu.au/"
   location = "Perth, Western Australia"
-  date_start = "2015-07-01"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
+  The School of Medical and Health Sciences is home to teaching and research in Medical and Biomedical Sciences, Allied Health, and Exercise and Sports Sciences, as well as in Public, Occupational and Environmental Health. Our world-class research is rapidly translated to provide solutions to some of the key health issues facing our community
   """
 
 [[experience]]

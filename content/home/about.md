@@ -71,16 +71,10 @@ weight = 5
 # Biography
 I'll connect the dots for you..... | Inquistive Individual
 
-As an athlete developer, I believe in achieving high athletic performance through an integrated multi-disciplinary approach for both athletes and coaches. To achieve this outcome, I strongly believe in investing in a long-term data-driven approach. To date, I have been fortunate to be able to marry my love for Coaching and Data Analytics, to boost sports performance.
+I excel in being the bridge (and not just the middleman) between the technical/specialist side and the management/end-user. I relish in both; starting projects and problem-solving requiring technical knowledge/expertise especially together with other specialists and experts in the field and focusing on the execution and delivery. 
 
-As a Strength and Conditioning (S&C) Coach for more than fourteen years, I have coached athletes through the full spectrum from developmental youths to elite adults athletes.
+As with any curious individual, I am constantly exploring other areas that can be integrated such as programming, analytics and application of technology in specialised/technical domain. Especially areas, that are not traditionally synonymous with what I have primarily focused on such as ethics, epistemology and religion. 
 
-As a Sports Science practitioner, I have worked in several sports science disciplines, and have served as a sports science coordinator for high performance athletes at the Olympic level.
+I am honoured to be recognised as a [SkillsFuture Fellow](https://www.skillsfuture.gov.sg/fellowships/b18).
+- Presented by the [President of the Republic of Singapore](https://www.istana.gov.sg/), the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
 
-As a Data Analyst, I am working towards combining machine learning and its integration with sports performance.
-
-My experience is in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning.
-
-In 2018, I was conferred the [SkillsFuture Fellow](https://www.skillsfuture.gov.sg/fellowships/b18) title by the [President of the Republic of Singapore](https://www.istana.gov.sg/) in recognition of my skills and my commitment to mentor aspiring coaches.
-
-An Eternal Student, _"Always Learning, Always Growing"_

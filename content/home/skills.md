@@ -44,7 +44,7 @@ weight = 7
   icon = "skating"
   icon_pack = "fas"
   name = "3D Motion Analysis"
-  description = "I have been using VICON Nexus for 3D motion analysis alot of over the years, especially currently for my PhD. Currently however I have learned and helped to conduct studies using the XSens system."
+  description = "I have been using VICON Nexus for 3D motion analysis alot of over the years, especially currently for my PhD. Recently I have learned and helped to conduct studies using other systems such as the XSens and the SIMI."
 
 [[feature]]
   icon = "python"
@@ -74,7 +74,7 @@ weight = 7
   icon = "dumbbell"
   icon_pack = "fas"
   name = "Strength and Conditioning"
-  description = "I have been a Strength and Conditioning Coach for the past 12 years. And have worked with a wide variety of athletes across the whole development spectrum"
+  description = "Strength and Conditioning Coach for the past 14 years. And have worked with a wide variety of athletes across the whole development spectrum"
 
 [[feature]]
   icon = "football-ball"

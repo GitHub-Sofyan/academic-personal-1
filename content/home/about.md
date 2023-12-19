@@ -69,7 +69,7 @@ weight = 5
 +++
 
 # Biography
-I'll connect the dots for you..... | Inquistive Individual
+I'll connect the dots for you..... | Inquistive Individual.
 
 I excel in being the bridge (and not just the middleman) between the technical/specialist side and the management/end-user. I relish in both; starting projects and problem-solving requiring technical knowledge/expertise especially together with other specialists and experts in the field and focusing on the execution and delivery. 
 

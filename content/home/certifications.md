@@ -70,4 +70,9 @@ weight = 8
   name = "Coach (Weightlifting)"
   description = "[National Coaching Accreditation Program (Singapore)](https://www.sportsingapore.gov.sg/~/media/corporate/files/athletes%20and%20coaches/for%20coaches/coach%20development/national%20coaching%20accreditation%20programme/infosheet%20ncap%20theory%20syllabus.pdf)"
 
+[[feature]]
+  icon = "dumbbell"
+  icon_pack = "fas"
+  name = "Instructor, Standard First Aid | Basic Cardiac Life Support"
+  description = "[National Coaching Accreditation Program (Singapore)](https://www.sportsingapore.gov.sg/~/media/corporate/files/athletes%20and%20coaches/for%20coaches/coach%20development/national%20coaching%20accreditation%20programme/infosheet%20ncap%20theory%20syllabus.pdf)"
 +++
